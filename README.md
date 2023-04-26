@@ -11,4 +11,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrsndz&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-Atualmente, em estudo de JS /AJAX/ JQuery e PHP.
+Atualmente, em estudo de Swift e JS ( AJAX /  PHP/  JQuery).
