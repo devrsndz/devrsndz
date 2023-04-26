@@ -8,7 +8,6 @@
 [![blog](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)]()
 
 ![Hélio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devrsndz&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrsndz&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
