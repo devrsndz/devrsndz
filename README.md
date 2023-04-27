@@ -1,14 +1,29 @@
-### Olá! 😎
+### Olá! Eu sou Hélio
 
-[![blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
-[![blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
-[![blog](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)]()
 
-![Hélio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devrsndz&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrsndz&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+- Estudante de programação IFSP
+- Dev Júnior
+<div align="center">
+  <a href="https://github.com/devrsndz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devrsndz&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrsndz&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
+ 
+<div style="display: inline_block"><br>
+  <img align="center" alt="devrsndz" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="devrsndz" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="devrsndz" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="devrsndz" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="devrsndz" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+   <img align="center" alt="devrsndz" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  </div>
+  
+##
 
+<div> 
 <br>
-Atualmente, em estudo de Swift e JS ( AJAX /  PHP/  JQuery).
+  <a href="https://instagram.com/hrznd._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "devhrsnd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   
+  
+</div>
