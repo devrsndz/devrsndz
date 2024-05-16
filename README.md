@@ -3,6 +3,7 @@
 
 - Estudante de programação IFSP
 - Dev Júnior
+- Etical Hacking - Segurança da Informação (Kali Linux)
 <div align="center">
   <a href="https://github.com/devrsndz">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=devrsndz&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
